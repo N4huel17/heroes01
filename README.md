@@ -5,8 +5,8 @@
 
 PARTICIPANTES:
 
-Nombre   :
-Edad     :
-Ciudad   :
+Nombre   : julian Saucedo
+Edad     : 34 años
+Ciudad   : Berazategui
 
 
