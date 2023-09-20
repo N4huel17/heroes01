@@ -4,9 +4,9 @@
 
 
 PARTICIPANTES:
-
-Nombre   :
-Edad     :
-Ciudad   :
-
-
+nombre:
+edad:
+localidad:
+nombre:gisele ortiz
+edad:39
+localidad: san miguell
